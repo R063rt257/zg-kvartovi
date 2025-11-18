@@ -7,7 +7,7 @@
       <!-- RUB POLIGONA (linija) -->
       <LineStyle>
         <!-- crvena linija, puna (100%): aabbggrr = ff0000ff -->
-        <color>800000ff</color>
+        <color>80ff0000</color>
         <width>2</width> <!-- debljina linije u pikselima -->
       </LineStyle>
 
