@@ -7,14 +7,14 @@
       <!-- RUB POLIGONA (linija) -->
       <LineStyle>
         <!-- crvena linija, puna (100%): aabbggrr = ff0000ff -->
-        <color>ff0000ff</color>
+        <color>800000ff</color>
         <width>2</width> <!-- debljina linije u pikselima -->
       </LineStyle>
 
       <!-- ISPUNA POLIGONA -->
       <PolyStyle>
         <!-- bijela, 25% vidljiva: aabbggrr = 40ffffff -->
-        <color>40ffffff</color>
+        <color>20ffffff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -23,7 +23,7 @@
       <LabelStyle>
         <!-- bijela, 50% prozirna: aabbggrr = 80ffffff -->
         <color>80ffffff</color>
-        <scale>1.2</scale> <!-- malo povećan tekst -->
+        <scale>0.8</scale> <!-- malo povećan tekst -->
       </LabelStyle>
     </Style>
 <Placemark>
